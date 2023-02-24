@@ -1,4 +1,4 @@
-import VJsoneditor from './VueJsoneditor'
+import VJsoneditor from './VueJsoneditor.vue'
 
 export default VJsoneditor
 
